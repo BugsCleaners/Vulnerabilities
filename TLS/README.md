@@ -1,4 +1,4 @@
-| No| Server Protocol             |  Strict  | PCI          |  Best |  FIPS | InUse |  | No | Cipher                                          |  Strict | PCI |  Best |  FIPS | TLS 1.2 InUse |                                                                          
+| No| Server Protocol             |  Strict  | PCI          |  Best |  FIPS | InUse |  ``` | No | Cipher                                          |  Strict | PCI |  Best |  FIPS | TLS 1.2 InUse |                                                                          
 | ------------------- | --------- | -------- | ------------ | ----- | ----- | ----- |  | -- | ----------------------------------------------- | ------- | --- | ----- | ----- | ------------- |
 | 1| Multi-Protocol Unified Hello |          |              |       |       |       |  | 1  | TLS\_ECDHE\_RSA\_WITH\_AES\_256\_GCM\_SHA384,   |  Strict | PCI |  Best |  FIPS | TLS 1.2 InUse |
 | 2| PCT 1.0                      |          |              |       |       |       |  | 2  | TLS\_ECDHE\_RSA\_WITH\_AES\_128\_GCM\_SHA256,   |  Strict | PCI |  Best |  FIPS | TLS 1.2 InUse |
@@ -37,7 +37,7 @@
                                                                                        | 35 | TLS\_PSK\_WITH\_AES\_256\_CBC\_SHA384,          |         |     |       |       |               |
                                                                                        | 36 | TLS\_PSK\_WITH\_AES\_128\_CBC\_SHA256,          |         |     |       |       |               |
                                                                                        | 37 | TLS\_PSK\_WITH\_NULL\_SHA384,                   |         |     |       |       |               |
-                                                                                       | 38 | TLS\_PSK\_WITH\_NULL\_SHA256,                   |         |     |       |       |               |
+                                                                                       | 38 | TLS\_PSK\_WITH\_NULL\_SHA256,                   |         |     |       |       |               | ```
                                                                                        
                                                                                        
                                                                                        
