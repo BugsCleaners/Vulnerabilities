@@ -1,4 +1,21 @@
 # SMB Vulnerability 
+## Remediation
+
+### Windows 
+Using Powershell as Administrator
+* Detect
+ * Get-WindowsOptionalFeature -Online -FeatureName SMB1Protocol
+* Disable
+ * Disable-WindowsOptionalFeature -Online -FeatureName SMB1Protocol
+* Enable
+ * Enable-WindowsOptionalFeature -Online -FeatureName SMB1Protocol
+### Linux
+* 
+
+### Resources 
+* https://techcommunity.microsoft.com/t5/storage-at-microsoft/stop-using-smb1/ba-p/425858 
+
+# Validation & Testing 
 ## Prerequisite
 *  Kali Machine or Linux Machine 
 ## Basic tool:  
