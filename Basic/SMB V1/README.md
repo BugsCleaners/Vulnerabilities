@@ -1,8 +1,7 @@
 # SMB Vulnerability 
 ## Remediation
 
-### Windows 
-Using Powershell as Administrator
+### Windows (Powershell)
 The computer will restart after you run the PowerShell commands to disable or enable SMBv1.
 * Detect
  * Get-WindowsOptionalFeature -Online -FeatureName SMB1Protocol
