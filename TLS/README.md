@@ -1,5 +1,6 @@
+# TLS configuration 
 ### Protocols 
-
+***
 | ------------------------------------------------------------- | ---------------------------- | -------- | ------------ | ----- | ----- | ----- |      
 | No                                                            | Server Protocol              |  Strict  | PCI          |  Best |  FIPS | InUse |      
 | 1                                                             | Multi-Protocol Unified Hello |          |              |       |       |       |
@@ -38,7 +39,7 @@
 |                                                               |                              |          |              |       |       |       |
 |                                                               |                              |          |              |       |       |       |
 
-
+***
 ### Ciphers
 
 | No | Cipher | Strict | PCI | Best | FIPS | TLS 1.2 InUse |
