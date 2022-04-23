@@ -1,5 +1,5 @@
 | No | Cipher | Strict | PCI | Best | FIPS | TLS 1.2 InUse |
-| -- | ----------------------------------------------- | ------- | --- | ----- | ----- | ----------------- |
+| -- | ----------------------------------------------- | ------- | --- | ----- | ----- | ----------------- | <!-- an empty Div (with a white space), serving as a column separator -->
 | 1  | TLS\_ECDHE\_RSA\_WITH\_AES\_256\_GCM\_SHA384,   |  Strict | PCI |  Best |  FIPS | TLS 1.2 InUse     |
 | 2  | TLS\_ECDHE\_RSA\_WITH\_AES\_128\_GCM\_SHA256,   |  Strict | PCI |  Best |  FIPS | TLS 1.2 InUse     |
 | 3  | TLS\_ECDHE\_RSA\_WITH\_AES\_256\_CBC\_SHA384,   |  Strict | PCI |  Best |  FIPS | TLS 1.2 InUse     |
