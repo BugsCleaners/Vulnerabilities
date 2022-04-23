@@ -3,6 +3,7 @@
 
 ### Windows 
 Using Powershell as Administrator
+The computer will restart after you run the PowerShell commands to disable or enable SMBv1.
 * Detect
  * Get-WindowsOptionalFeature -Online -FeatureName SMB1Protocol
 * Disable
