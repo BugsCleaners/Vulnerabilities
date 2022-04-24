@@ -1,6 +1,6 @@
 # Vulnerabilities
 ## Basic
 * SMB V1
-## TLS (Powershell)
+## TLS
 * Strong Protocols
 * Strong Ciphers
