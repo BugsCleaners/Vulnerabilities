@@ -4,11 +4,11 @@
 ### Windows (Powershell)
 The computer will restart after you run the PowerShell commands to disable or enable SMBv1.
 * Detect
-    * Get-WindowsOptionalFeature -Online -FeatureName SMB1Protocol
+    * `Get-WindowsOptionalFeature -Online -FeatureName SMB1Protocol`
 * Disable
-  * Disable-WindowsOptionalFeature -Online -FeatureName SMB1Protocol
+  * `Disable-WindowsOptionalFeature -Online -FeatureName SMB1Protocol`
 * Enable
-  * Enable-WindowsOptionalFeature -Online -FeatureName SMB1Protocol
+  * `Enable-WindowsOptionalFeature -Online -FeatureName SMB1Protocol`
 ### Linux
 * 
 
