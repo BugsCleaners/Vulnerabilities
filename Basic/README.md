@@ -1,7 +1,7 @@
 
 # Basic Information  
 ## SMB V1
-* Remeidation 
+* Remediation 
 *  Tools 
 ***
 ## ???
